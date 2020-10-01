@@ -74,26 +74,29 @@ html, body {
     font-size: medium;
     text-align: center;
   }
+
+  .paragraph{
+    background-color: aliceblue;
+    margin-left: 210px;
+    margin-right: 210px;
+  }
   
   .article, .section {
     flex: 4;
   }
   
-  .aside {
+  .article {
     display: flex;
     flex-flow: row wrap;
     flex: 2;
+    float: right;
   }
-  
-  .aside a {
+
+  .article {
     display: flex;
     flex-basis: 50%;
   }
   
-  .aside img {
-    width: 100%;
-    height: auto;
-  }
   
   .footer {
     margin-top: 10px;
