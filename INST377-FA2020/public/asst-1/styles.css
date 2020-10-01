@@ -17,6 +17,10 @@ html, body {
     background-color: #6091C3;
   }
   
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
   /* || typography */
   
   h1, h2, h3 {
