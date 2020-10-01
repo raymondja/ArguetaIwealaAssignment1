@@ -69,16 +69,11 @@ html, body {
   
   /* || main layout */
   
-  /*.main {
+  .main {
     display: block;
     font-size: medium;
     text-align: center;
-<<<<<<< HEAD
-    background-color: aliceblue;
-  }*/
-=======
   }
->>>>>>> da042d4ad9bf2cb524f62b7e93e3cc7129dfbcac
   
   .article, .section {
     flex: 4;
