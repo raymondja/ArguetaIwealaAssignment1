@@ -81,16 +81,12 @@ html, body {
     margin-right: 210px;
   }
   
-  .article{
-    display: flex;
-    background-color: aliceblue;
-  }
-  
   .article {
     display: flex;
     flex-flow: row wrap;
     flex: 2;
     float: right;
+    background-color: aliceblue;
   }
 
   .article {
