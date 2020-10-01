@@ -69,12 +69,12 @@ html, body {
   
   /* || main layout */
   
-  .main {
+  /*.main {
     display: block;
     font-size: medium;
     text-align: center;
     background-color: aliceblue;
-  }
+  }*/
   
   .article, .section {
     flex: 4;
