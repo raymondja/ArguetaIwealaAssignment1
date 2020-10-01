@@ -70,7 +70,7 @@ html, body {
   /* || main layout */
   
   .main {
-    display: flex;
+    display: block;
     font-size: medium;
   }
   
