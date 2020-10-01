@@ -19,7 +19,7 @@ html, body {
   
   .wrapper {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
   /* || typography */
   
