@@ -81,8 +81,9 @@ html, body {
     margin-right: 210px;
   }
   
-  .article, .section {
-    flex: 4;
+  .article{
+    display: flex;
+    background-color: aliceblue;
   }
   
   .article {
@@ -97,7 +98,3 @@ html, body {
     flex-basis: 50%;
   }
   
-  
-  .footer {
-    margin-top: 10px;
-  }
