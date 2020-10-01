@@ -67,6 +67,7 @@ html, body {
   
   .main {
     display: flex;
+    font-size: medium;
   }
   
   .article, .section {
