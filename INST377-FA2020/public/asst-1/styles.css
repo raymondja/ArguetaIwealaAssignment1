@@ -70,8 +70,10 @@ html, body {
   /* || main layout */
   
   .main {
-    display: flex;
+    display: block;
     font-size: medium;
+    text-align: center;
+    background-color: aliceblue;
   }
   
   .article, .section {
