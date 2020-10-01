@@ -69,11 +69,11 @@ html, body {
   
   /* || main layout */
   
-  /*.main {
+  .main {
     display: block;
     font-size: medium;
     text-align: center;
-  }*/
+  }
   
   .article, .section {
     flex: 4;
