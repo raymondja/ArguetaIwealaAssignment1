@@ -19,7 +19,7 @@ html, body {
   
   .wrapper {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
   /* || typography */
   
@@ -86,11 +86,22 @@ html, body {
     background-color: aliceblue;
   }
   
-  .article {
+  .article{
     display: flex;
     flex-flow: row wrap;
     flex: 2;
     float: right;
+  }
+
+  h2 {
+    padding: 5%;
+  }
+
+  ol, li, .art_paragraph {
+    font-size: medium ;
+    padding: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .article {
