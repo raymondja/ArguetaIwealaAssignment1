@@ -81,12 +81,28 @@ html, body {
     margin-right: 210px;
   }
   
-  .article {
+  .article{
+    display: flex;
+    background-color: aliceblue;
+  }
+  
+  .article{
     display: flex;
     flex-flow: row wrap;
     flex: 2;
     float: right;
     background-color: aliceblue;
+  }
+
+  h2 {
+    padding: 5%;
+  }
+
+  ol, li, .art_paragraph {
+    font-size: medium ;
+    padding: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .article {
